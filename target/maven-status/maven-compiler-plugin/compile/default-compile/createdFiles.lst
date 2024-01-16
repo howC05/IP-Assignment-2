@@ -1,0 +1,10 @@
+com\tutorial\controller\InstructorController.class
+com\tutorial\controller\FitnessProgramController$HomeController.class
+com\tutorial\model\Instructor.class
+com\tutorial\model\Program.class
+com\tutorial\model\Trainee.class
+dbUtil\InstructorDAO.class
+com\tutorial\controller\FitnessProgramController.class
+com\tutorial\controller\TraineeController.class
+dbUtil\DbConnect.class
+dbUtil\HibernateCF.class
